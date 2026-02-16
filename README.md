@@ -73,8 +73,8 @@ Attendance Display (Web Page)
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Face-Recognition-Attendance-System.git
-cd Face-Recognition-Attendance-System
+git clone https://github.com/Anshita17/FACIAL-RECOGNITION-ATTENDANCE-SYSTEM-USING-OPENCV-PYTHON.git
+cd FACIAL-RECOGNITION-ATTENDANCE-SYSTEM-USING-OPENCV-PYTHON
 
 ````
 
